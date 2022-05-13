@@ -14,3 +14,6 @@
 ### Init: 
 - `npm i` to initialize node-modules
 - `tsc` to compile ts files
+
+### Presentation slides
+- in `./presentationSlides` folder
